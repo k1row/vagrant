@@ -1,0 +1,22 @@
+*.zip
+
+# backup files
+*~
+*.swp
+*.log
+XTAGS
+
+# Others
+.DS_Store
+Thumbs.db
+
+dummy/
+dummy2/
+
+.idea
+*.iml
+*.iws
+*.ipr
+*.ids
+
+.gradle/
